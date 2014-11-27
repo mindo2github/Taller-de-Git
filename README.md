@@ -1,4 +1,6 @@
-(MOdificando en master con conflicto)
+ la nueva Rama)
+
+>>>>>>> twig
 Taller-de-Git   AL lado del conflictivo
 =============
 ##Modificando otra vez
