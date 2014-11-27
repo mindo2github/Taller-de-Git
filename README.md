@@ -1,3 +1,5 @@
+(En la nueva Rama)
+
 Taller-de-Git   AL lado del conflictivo
 =============
 ##Modificando otra vez
