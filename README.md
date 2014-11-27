@@ -1,3 +1,4 @@
+(MOdificando en master con conflicto)
 Taller-de-Git   AL lado del conflictivo
 =============
 ##Modificando otra vez
